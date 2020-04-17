@@ -1,6 +1,5 @@
-# Webpack Starter
+# HTTP FECH
 
-Este es el proyecto para iniciar aplicacion con webpack.
 
 # Construir
 
